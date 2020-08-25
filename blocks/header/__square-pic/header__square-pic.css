@@ -5,6 +5,5 @@
     position:absolute;
     top:64px;
     right:0px;
-    z-index: 0;
-    animation: rotate 20s infinite linear;
+    z-index: 0;   
   }
