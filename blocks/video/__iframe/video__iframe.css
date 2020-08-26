@@ -4,3 +4,6 @@
     margin-right: 20px;
     border:none;
   }
+  .video__iframe:last-of-type{
+    margin-right: 0;
+  }

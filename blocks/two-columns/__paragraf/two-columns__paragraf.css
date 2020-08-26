@@ -4,3 +4,6 @@
     font-weight:normal;
     margin:0 0 30px 0;
    }
+   .two-columns__paragraf:last-of-type{
+    margin-bottom: 0;
+   }
